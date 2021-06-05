@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Info Movie</string>
+    <string name="unknown_error">Something error, please try again later</string>
+
+</resources>
